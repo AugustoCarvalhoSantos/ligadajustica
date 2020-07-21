@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".canario_nrgro">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="64dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="151dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imgCan"
+                android:layout_width="133dp"
+                android:layout_height="132dp"
+                android:layout_weight="1"
+                android:contentDescription="@string/imgCan"
+                app:srcCompat="@drawable/canario_negro" />
+
+            <LinearLayout
+                android:layout_width="246dp"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/txtHeroiCan"
+                    android:layout_width="match_parent"
+                    android:layout_height="57dp"
+                    android:text="@string/txtHeroiCan"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+                <TextView
+                    android:id="@+id/txtNomeCan"
+                    android:layout_width="match_parent"
+                    android:layout_height="56dp"
+                    android:text="@string/txtNomeCan"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+                <TextView
+                    android:id="@+id/txtEspCan"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/txtEspCan"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txtHab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtHab"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txtHabCan"
+            android:layout_width="match_parent"
+            android:layout_height="62dp"
+            android:text="@string/txtHabCan" />
+
+        <TextView
+            android:id="@+id/txtVul2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtVul"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txtVulCan"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="@string/txtVulCan" />
+
+        <TextView
+            android:id="@+id/txtEquip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtEquip"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <TextView
+            android:id="@+id/txtEquipCan"
+            android:layout_width="match_parent"
+            android:layout_height="108dp"
+            android:text="@string/txtEquipCan" />
+
+        <TextView
+            android:id="@+id/txtNivCan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/txtNivCan"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body2" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/btnAnt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btnAnt" />
+
+            <TextView
+                android:id="@+id/branco"
+                android:layout_width="99dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/branco" />
+
+            <Button
+                android:id="@+id/btnprox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/btnprox" />
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

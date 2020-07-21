@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">ligadajustica</string>
+    <string name="imgArc">arqueiro_verde</string>
+    <string name="txtHeroiArc">     Herói: Arqueiro Verde</string>
+    <string name="txtNomeArc">     Nome: Oliver Queen</string>
+    <string name="txtEspArc">     Espécie: Humano</string>
+    <string name="txtHab">Habilidades</string>
+    <string name="txtHabArc">Excepcional combatente corpo-a-corpo, mestre espadachim, arquearia, magia de luz, fisiologia de espírito</string>
+    <string name="txtVul">Vulnerabilidades</string>
+    <string name="txtVulArc">Trevas: Se Oliver tiver mais trevas do que luz dentro de sua alma, ele não apenas será incapaz de usar a Luz da Alma, como também capacitará seus inimigos que usam magia negra.</string>
+    <string name="txtEquip">Equipamentos</string>
+    <string name="txtArcoArc">Arco Recurvo</string>
+    <string name="txtTrajeArc">Traje de Arqueiro Verde</string>
+    <string name="txtArcoArc2">Novo arco recurvo de prata Hoyt Formula Faktor HP com pontas escuras.</string>
+    <string name="txtTrajeArc2">Traje protetor para esconder sua identidade.</string>
+    <string name="txtNivArc">Nivel de acesso: 7</string>
+    <string name="branco"></string>
+    <string name="btnprox">PRÓXIMO ▸</string>
+    <string name="btnAnt">◂ ANTERIOR</string>
+
+    <string name="imgGav">gaviao_negro</string>
+    <string name="txtHeroiGav">     Herói: Gavião Negro</string>
+    <string name="txtNomeGav">     Nome: Carter Hall</string>
+    <string name="txtEspGav">     Espécie: Thanagariano</string>
+    <string name="txtHabGav">Falar e entender a linguagem dos pássaros, voar, reencarnação, mestre de armas medievais, conhecimento reincarnado, arqueologia, investigação, poliglota.</string>
+    <string name="txtVulGav">Maldição: Toda vez que ele nasce de novo, ele deve vagar pela terra até que ele encontre novamente com sua alma eterna companheira. Mas assim que eles formam um laço profundo, eles estão destinados a ser assassinados novamente e isso continua.</string>
+    <string name="txtCintoGav">Cinto de metal enésimo</string>
+    <string name="txtAsasGav">Asas Artificiais emplumadas</string>
+    <string name="txtAsasGav2">Permitem que ele controle a navegação e a orientação durante o vôo</string>
+    <string name="txtCintoGav2">Cinto anti-gravidade controlado mentalmente que permite vôo</string>
+    <string name="txtNivGav">Nivel de acesso: 6</string>
+
+    <string name="imgCan">canario_negro</string>
+    <string name="txtHeroiCan">     Herói: Canário Negro</string>
+    <string name="txtNomeCan">     Nome: Dinah Drake</string>
+    <string name="txtEspCan">     Espécie: Meta-Humana</string>
+    <string name="txtHabCan">Grito supersônico, acrobata, investigação, artes marciais</string>
+    <string name="txtVulCan">Não Possui</string>
+    <string name="txtEquipCan">Não Possui</string>
+    <string name="txtNivCan">Nivel de acesso: 9</string>
+
+    <string name="imgAqu">aquaman</string>
+    <string name="txtHeroiAqu">     Herói: Aquaman</string>
+    <string name="txtNomeAqu">     Nome: Arthur Curry</string>
+    <string name="txtEspAqu">     Espécie: Híbrido de Atlante e Humano</string>
+    <string name="txtHabAqu">Fisiologia Hibrida Atlante, adaptação subaquática, invulnerabilidade, Super-Força, resistência ao Extremo Calor, Sentidos, Reflexos, Velocidade sobre-humanos.</string>
+    <string name="txtVulAqu">Não Possui</string>
+    <string name="txtEquipAqu">Não Possui</string>
+    <string name="txtNivAqu">Nivel de acesso: 8</string>
+    <string name="txtTridAqu">Tridente de Poseidon</string>
+    <string name="txtConchaAqu">Conchas dos Sons</string>
+    <string name="txtTridAqu2">Uma bênção divina concedida a ele por seu portador anterior, Poseidon.</string>
+    <string name="txtConchaAqu2">Relíquia que pode conter memórias gravadas e diálogo do usuário</string>
+</resources>
